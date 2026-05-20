@@ -25,7 +25,8 @@
 <p align="left">
   </a>
   <a href="https://www.linkedin.com/in/divyansh-bhardwaj1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   </a>
   <a href="mailto:divyansh.work4u@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f7ff&labelColor=0d1117" />
