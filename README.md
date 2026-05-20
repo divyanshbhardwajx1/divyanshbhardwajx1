@@ -23,13 +23,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=0d1117" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/divyansh-bhardwaj1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff&labelColor=0d1117" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:divyansh.work4u@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f7ff&labelColor=0d1117" />
   </a>
 </p>
