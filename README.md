@@ -53,24 +53,3 @@
 ✔️ Linux & Networking
 ✔️ Python Automation
 ```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=8b949e&bg_color=0d1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00f7ff&text_color=8b949e&bg_color=0d1117" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&background=0d1117&sideLabels=8b949e&dates=8b949e" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f7ff&labelColor=0d1117&label=PROFILE+VIEWS" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:0d1117&height=100&section=footer" />
-</div>
